@@ -1,0 +1,17 @@
+suma
+- recibe 2 valores, negativos o positivos 
+- devuelve la suma de los valores dados
+
+restar
+-  recibe 2 valores, negativos o positivos
+- devuelve la resta de los valores dados
+
+multiplicacion
+-  recibe 2 valores, negativos o positivos
+- devuelve la multiplicacion de los valores dados
+
+division
+- recibe 2 valores, negativos o positivos
+- devuelve la division de los valores dados
+- no hay numeros negativos
+
