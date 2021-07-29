@@ -1,2 +1,2 @@
 # TDD-Python
-TDD and Unit Tests in python 
+A calculator made with TDD and Unit Tests in python 
